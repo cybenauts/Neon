@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="MOdelDriven">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <dependent-module archiveName="javassist-3.11.0.GA.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/javassist-3.11.0.GA/javassist-3.11.0.GA">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="ognl-3.0.6.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/ognl-3.0.6/ognl-3.0.6">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="log4j-1.2.17.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/log4j-1.2.17/log4j-1.2.17">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="struts2-core-2.3.15.2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/struts2-core-2.3.15.2/struts2-core-2.3.15.2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="xwork-core-2.3.15.2.jar" deploy-path="/WEB-INF/lib/" handle="module:/resource/xwork-core-2.3.15.2/xwork-core-2.3.15.2">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <property name="context-root" value="MOdelDriven"/>
+        <property name="java-output-path" value="/MOdelDriven/build/classes"/>
+    </wb-module>
+</project-modules>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.matrix.controller.First&apos; to &apos;HttpSer&apos;&#x0D;&#x0A;- Original project: &apos;Servlet&apos;&#x0D;&#x0A;- Original element: &apos;com.matrix.controller.First&apos;&#x0D;&#x0A;- Renamed element: &apos;com.matrix.controller.HttpSer&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;First&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.matrix.controller{First.java[First" matchStrategy="1" name="HttpSer" qualified="false" references="true" similarDeclarations="false" stamp="1456908606532" textual="false" version="1.0"/>
+</session>

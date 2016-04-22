@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script>
+		function createXMLHttp()
+		{
+			var xmlhttp = null;
+			if (window.XMLHttpRequest)
+			{   // code for IE7+, Firefox, Chrome, Opera, Safari
+				xmlhttp=new XMLHttpRequest();
+			}
+			else
+			{   // code for IE6, IE5
+				xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+			}
+			return xmlhttp;
+		}
+		var xmlhttp = createXMLHttp();
+		function methodA()
+		{
+			var str = document.getElementById("user").value;	
+			xmlhttp.open("GET","getUser.jsp?username="+str,true);		  
+			xmlhttp.onreadystatechange=dataHandler;
+			xmlhttp.send();
+		}
+
+		function dataHandler()
+		{
+			if (xmlhttp.readyState==4)
+			{
+				if(xmlhttp.status==200)
+				{				
+					document.getElementById("myDiv").innerHTML=xmlhttp.responseText;			
+				}
+			}
+		}
+
+
+    </script>
+  </head>
+  <body>
+
+ 	<input type="text" id="user" onkeyup="methodA()">
+  	<div id="myDiv" style="width:230px;border:1px  grey"></div>
+  	
+  
+
+  </body>
+</html>

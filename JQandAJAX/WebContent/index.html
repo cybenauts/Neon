@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>jQuery</title>
+	<script src="jquery.js"></script>
+	<script>
+		$(document).ready(function () {
+			$(".inp").focus(function () {
+				 $(this).css("background-color","#ffffff");
+			});
+			$(".inp").blur(function () {
+				 $(this).css("background-color","#e6e6e6");
+			});
+
+			$("#i1").blur(function () {
+				 var str=$(this).val();
+				 if(!str.includes("@"))
+				 {
+				 	$("#noti").text("doest contain @");
+				 }
+				 else if (!str.endsWith(".com")) {
+				 	$("#noti").text(" ");
+				 	$("#noti1").text("doesnt end with .com"); 	
+				 }
+				 else{
+				 	$("#noti").text(" ");
+				 	$("#noti1").text(" ");
+				 }
+			});
+			$("#i2").blur(function () {
+				var c=$("#i2").val().length;
+			if(c<3) {
+				$("#notify").text("name should be more than 3 letters.");
+			}
+			else{
+				$("#notify").text("");
+			}	  
+			});
+			$("#i2").keydown(function () {
+				 if($.isNumeric($(this).val())){
+					$(this).val(null);
+				}
+			});
+
+			$("#i3").blur(function () {
+				 if($(this).val().length < 6)
+				 {
+				 	$("#notify1").text("more than 6");
+				 }
+				 else{
+				 	$("#notify1").text(" ");
+				 }
+			});
+			$("#i4").blur(function () {
+				 if($("#i3").val() != $("#i4").val())
+				 {
+				 	$("#notify2").text("password mismatch");	
+				 }
+				 else{
+				 	$("#notify2").text(" ");
+				 }
+			});
+
+			$("#state").change(function () {
+				//alert($(this).val());
+				if($(this).val() == "mp")
+				{
+				 var option = $('<option></option>').attr("value", "bh").text("Bhopal");
+				$("#city").empty().append(option);
+				 var option1 = $('<option></option>').attr("value", "mn").text("Mandla");
+				$("#city").append(option1);
+				var option2 = $('<option></option>').attr("value", "in").text("Indore");
+				$("#city").append(option2);
+			}
+			else if ($(this).val() == "mh") {
+				var option = $('<option></option>').attr("value", "mb").text("Mumbai");
+				$("#city").empty().append(option);
+				 var option1 = $('<option></option>').attr("value", "pn").text("Pune");
+				$("#city").append(option1);
+				var option2 = $('<option></option>').attr("value", "am").text("Amravati");
+				$("#city").append(option2);
+			}
+			else if ($(this).val() == "tn") {
+				var option = $('<option></option>').attr("value", "oo").text("Ooty");
+				$("#city").empty().append(option);
+				 var option1 = $('<option></option>').attr("value", "ve").text("Vellore");
+				$("#city").append(option1);
+				var option2 = $('<option></option>').attr("value", "am").text("Coiambatore");
+				$("#city").append(option2);
+			}
+			});
+			 $("form").submit(function () {
+			  	 alert("Submission");
+			  });
+		});
+	</script>
+<script>
+		function createXMLHttp()
+		{
+			var xmlhttp = null;
+			if (window.XMLHttpRequest)
+			{   // code for IE7+, Firefox, Chrome, Opera, Safari
+				xmlhttp=new XMLHttpRequest();
+			}
+			else
+			{   // code for IE6, IE5
+				xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+			}
+			return xmlhttp;
+		}
+		var xmlhttp = createXMLHttp();
+		function methodA()
+		{
+			var str = document.getElementById("i2").value;	
+			xmlhttp.open("GET","getUser.jsp?username="+str,true);		  
+			xmlhttp.onreadystatechange=dataHandler;
+			xmlhttp.send();
+		}
+
+		function dataHandler()
+		{
+			if (xmlhttp.readyState==4)
+			{
+				if(xmlhttp.status==200)
+				{				
+					document.getElementById("myDiv").innerHTML=xmlhttp.responseText;			
+				}
+			}
+		}
+
+
+    </script>
+	<style type="text/css">
+		.inp{
+			background-color: #e6e6e6;
+		}
+		.notification{
+			font-weight: lighter;
+			color: red;
+			margin-left: 5%;
+		}
+	</style>
+</head>
+<body style="background-color: ">
+	<form>
+		<fieldset style="margin-left: 40%;margin-top:5%;width:300px;background-color: white;">
+		<legend style="text-align: center;">Details</legend>
+		<label>Email:</label><br><input type="text" id="i1" class="inp" /><h6 id="noti" class="notification"></h6><h6 id="noti1" class="notification"></h6>
+		<br><label>Name:</label><br><input type="text"id="i2"class="inp" onkeyup="methodA()"/>
+		<div id="myDiv" style="width:230px;border:1px  grey"></div>
+		<h6 id="notify" class="notification"></h6>
+		<br><label>Password:</label><br><input type="text"id="i3"class="inp"/>
+		<h6 id="notify1" class="notification"></h6>
+		<label>Re-Enter Password:</label><br><input type="text"id="i4"class="inp"/> 
+		<h6 id="notify2" class="notification"></h6><br>
+		<label>Address:</label><br>
+		<label>State</label>
+		<select id="state">
+		<option value="up" selected>Uttar Pradesh</option>
+		<option value="mp">Madhya Pradesh</option>
+		<option value="mh">Maharashtra</option>
+		<option value="tn">Tamil Nadu</option>
+	</select>
+	<label>City</label>
+		<select id="city">
+		<option value="no" selected>Noida</option>
+		<option value="jh">Jhansi</option>
+		<option value="me">Meerut</option>
+		<option value="lu">Lucknow</option>
+	</select><br>
+	<br><input type="submit" name="" value="Enter">
+	</fieldset>
+	</form>
+</body>
+</html>

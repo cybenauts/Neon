@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;LoginProject_Session&apos; to &apos;Coach_Session&apos;" description="Rename resource &apos;LoginProject_Session&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/LoginProject_Session" name="Coach_Session" stamp="1457427617212" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;RequestDispatchDemo&apos; to &apos;Coach_RequestDispatch&apos;" description="Rename resource &apos;RequestDispatchDemo&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/RequestDispatchDemo" name="Coach_RequestDispatch" stamp="1457429441868" updateReferences="true"/>
+</session>

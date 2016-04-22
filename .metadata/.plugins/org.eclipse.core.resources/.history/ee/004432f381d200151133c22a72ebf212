@@ -1,0 +1,77 @@
+package javaDBConnect;
+
+import java.awt.EventQueue;
+
+import javax.swing.JFrame;
+import javax.swing.JTextField;
+import java.awt.event.MouseAdapter;
+import java.awt.event.MouseEvent;
+
+import javax.swing.ImageIcon;
+import javax.swing.JButton;
+import javax.swing.JPanel;
+import java.awt.Toolkit;
+import javax.swing.JLabel;
+import java.awt.Color;
+
+public class Interaction {
+
+	private JFrame frame;
+	private JTextField t1;
+
+	/**
+	 * Launch the application.
+	 */
+	public static void main(String[] args) {
+		EventQueue.invokeLater(new Runnable() {
+			public void run() {
+				try {
+					Interaction window = new Interaction();
+					window.frame.setVisible(true);
+				} catch (Exception e) {
+					e.printStackTrace();
+				}
+			}
+		});
+	}
+
+	/**
+	 * Create the application.
+	 */
+	public Interaction() {
+		initialize();
+	}
+
+	/**
+	 * Initialize the contents of the frame.
+	 */
+	private void initialize() {
+		frame = new JFrame();
+		frame.setIconImage(Toolkit.getDefaultToolkit().getImage("C:\\Moonis\\CZ\\My Icons\\Apple.ico"));
+		frame.setBounds(100, 100, 450, 300);
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		frame.getContentPane().setLayout(null);
+		
+		t1 = new JTextField();
+		t1.addMouseListener(new MouseAdapter() {
+			@Override
+			public void mouseClicked(MouseEvent arg0) {
+				t1.setText("");
+			}
+		});
+		t1.setText("Enter Employee id...");
+		t1.setBounds(37, 77, 155, 20);
+		frame.getContentPane().add(t1);
+		t1.setColumns(10);
+		
+		JButton btnNewButton = new JButton("New button");
+		btnNewButton.setBounds(228, 76, 89, 23);
+		frame.getContentPane().add(btnNewButton);
+		
+		JLabel imglable = new JLabel("");
+		imglable.setIcon(new ImageIcon("C:\\Moonis\\College\\4th_Sem\\SE Proj\\atclogin.png"));
+		
+		imglable.setBounds(0, 0, 434, 261);
+		frame.getContentPane().add(imglable);
+	}
+}

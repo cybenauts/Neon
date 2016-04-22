@@ -1,0 +1,345 @@
+
+Mar 08, 2016 16:26:53.83 NEW SESSION
+Mar 08, 2016 16:26:53.83 [4120:7068:0308/162653:ERROR:content_settings_pref.cc(463)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 08, 2016 16:26:53.96 [4120:7068:0308/162653:ERROR:content_settings_pref.cc(289)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 08, 2016 16:26:54.54 [4120:5344:0308/162654:ERROR:external_registry_loader_win.cc(144)] File C:\Users\Moonis\AppData\Local\CRE\fnelgfmpooffemibikhmcklfnnimgijo.crx for key Software\Google\Chrome\Extensions\fnelgfmpooffemibikhmcklfnnimgijo does not exist or is not readable.
+Mar 08, 2016 16:26:55.99 [4120:7264:0308/162655:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 08, 2016 16:27:24.26 [4120:7264:0308/162724:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 08, 2016 16:27:29.91 [4120:7068:0308/162729:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Mar 08, 2016 16:27:29.92 [4120:7068:0308/162729:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Mar 08, 2016 16:28:23.00 [4120:7264:0308/162823:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 08, 2016 16:30:04.13 [4120:7264:0308/163004:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 08, 2016 16:36:07.13 [10680:9284:0308/163607:ERROR:content_settings_pref.cc(463)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 08, 2016 16:36:07.15 [10680:9284:0308/163607:ERROR:content_settings_pref.cc(289)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 08, 2016 16:36:07.27 [10680:6128:0308/163607:ERROR:external_registry_loader_win.cc(144)] File C:\Users\Moonis\AppData\Local\CRE\fnelgfmpooffemibikhmcklfnnimgijo.crx for key Software\Google\Chrome\Extensions\fnelgfmpooffemibikhmcklfnnimgijo does not exist or is not readable.
+Mar 08, 2016 16:36:07.65 [10680:3144:0308/163607:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 08, 2016 16:36:29.14 [10680:3144:0308/163629:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 08, 2016 16:36:40.47 [10680:9284:0308/163640:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Mar 08, 2016 16:36:40.48 [10680:9284:0308/163640:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Mar 08, 2016 16:37:20.68 [10680:3144:0308/163720:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 08, 2016 16:39:06.65 [10680:3144:0308/163906:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 08, 2016 16:41:51.14 [10680:9284:0308/164151:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Mar 08, 2016 16:42:18.24 [10680:9284:0308/164218:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Mar 08, 2016 16:42:51.76 [10680:3144:0308/164251:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 08, 2016 16:42:59.12 [10680:9284:0308/164259:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Mar 08, 2016 16:44:44.41 [10680:9284:0308/164444:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Mar 08, 2016 16:47:28.44 [10680:9284:0308/164728:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Mar 08, 2016 16:49:10.21 [10680:3144:0308/164910:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 08, 2016 16:54:49.23 [10680:9284:0308/165449:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Mar 08, 2016 17:01:13.77 [1404:1220:0308/170113:ERROR:content_settings_pref.cc(463)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 08, 2016 17:01:13.78 [1404:1220:0308/170113:ERROR:content_settings_pref.cc(289)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 08, 2016 17:01:13.94 [1404:10016:0308/170113:ERROR:external_registry_loader_win.cc(144)] File C:\Users\Moonis\AppData\Local\CRE\fnelgfmpooffemibikhmcklfnnimgijo.crx for key Software\Google\Chrome\Extensions\fnelgfmpooffemibikhmcklfnnimgijo does not exist or is not readable.
+Mar 08, 2016 17:01:14.03 [1404:10872:0308/170114:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 08, 2016 17:01:34.34 [1404:10872:0308/170134:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 08, 2016 17:01:46.64 [1404:1220:0308/170146:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Mar 08, 2016 17:01:46.65 [1404:1220:0308/170146:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Mar 08, 2016 17:02:15.76 [1404:10872:0308/170215:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 08, 2016 17:03:49.88 [4172:11244:0308/170349:ERROR:content_settings_pref.cc(463)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 08, 2016 17:03:49.89 [4172:11244:0308/170349:ERROR:content_settings_pref.cc(289)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 08, 2016 17:03:50.03 [4172:4496:0308/170350:ERROR:external_registry_loader_win.cc(144)] File C:\Users\Moonis\AppData\Local\CRE\fnelgfmpooffemibikhmcklfnnimgijo.crx for key Software\Google\Chrome\Extensions\fnelgfmpooffemibikhmcklfnnimgijo does not exist or is not readable.
+Mar 08, 2016 17:03:50.37 [4172:7988:0308/170350:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 08, 2016 17:04:13.50 [4172:7988:0308/170413:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 08, 2016 17:04:23.95 [4172:11244:0308/170423:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Mar 08, 2016 17:04:23.96 [4172:11244:0308/170423:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Mar 08, 2016 17:09:05.79 [9624:1920:0308/170905:ERROR:content_settings_pref.cc(463)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 08, 2016 17:09:05.79 [9624:1920:0308/170905:ERROR:content_settings_pref.cc(289)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 08, 2016 17:09:05.98 [9624:3952:0308/170905:ERROR:external_registry_loader_win.cc(144)] File C:\Users\Moonis\AppData\Local\CRE\fnelgfmpooffemibikhmcklfnnimgijo.crx for key Software\Google\Chrome\Extensions\fnelgfmpooffemibikhmcklfnnimgijo does not exist or is not readable.
+Mar 08, 2016 17:09:06.41 [9624:9560:0308/170906:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 08, 2016 17:09:30.27 [9624:9560:0308/170930:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 08, 2016 17:10:10.58 [10944:4432:0308/171010:ERROR:content_settings_pref.cc(463)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 08, 2016 17:10:10.64 [10944:4432:0308/171010:ERROR:content_settings_pref.cc(289)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 08, 2016 17:10:11.18 [10944:10852:0308/171011:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 08, 2016 17:10:11.45 [10944:3032:0308/171011:ERROR:external_registry_loader_win.cc(144)] File C:\Users\Moonis\AppData\Local\CRE\fnelgfmpooffemibikhmcklfnnimgijo.crx for key Software\Google\Chrome\Extensions\fnelgfmpooffemibikhmcklfnnimgijo does not exist or is not readable.
+Mar 08, 2016 17:10:38.86 [10944:10852:0308/171038:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 08, 2016 17:10:44.43 [10944:4432:0308/171044:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Mar 08, 2016 17:10:44.44 [10944:4432:0308/171044:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Mar 08, 2016 17:11:30.52 [10944:10852:0308/171130:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 08, 2016 17:12:55.98 [10944:10852:0308/171255:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 08, 2016 17:37:39.88 [7712:4788:0308/173739:ERROR:content_settings_pref.cc(463)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 08, 2016 17:37:39.90 [7712:4788:0308/173739:ERROR:content_settings_pref.cc(289)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 08, 2016 17:37:40.05 [7712:9632:0308/173740:ERROR:external_registry_loader_win.cc(144)] File C:\Users\Moonis\AppData\Local\CRE\fnelgfmpooffemibikhmcklfnnimgijo.crx for key Software\Google\Chrome\Extensions\fnelgfmpooffemibikhmcklfnnimgijo does not exist or is not readable.
+Mar 08, 2016 17:37:40.26 [7712:9844:0308/173740:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 08, 2016 17:38:02.50 [7712:9844:0308/173802:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 08, 2016 17:38:13.73 [7712:4788:0308/173813:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Mar 08, 2016 17:38:13.74 [7712:4788:0308/173813:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Mar 08, 2016 17:38:57.03 [7712:9844:0308/173857:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 08, 2016 17:40:45.16 [7712:9844:0308/174045:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+
+Mar 09, 2016 16:35:29.69 NEW SESSION
+Mar 09, 2016 16:35:29.69 [8512:8232:0309/163529:ERROR:content_settings_pref.cc(463)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 09, 2016 16:35:29.97 [8512:8232:0309/163529:ERROR:content_settings_pref.cc(289)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 09, 2016 16:35:30.37 [8512:776:0309/163530:ERROR:external_registry_loader_win.cc(144)] File C:\Users\Moonis\AppData\Local\CRE\fnelgfmpooffemibikhmcklfnnimgijo.crx for key Software\Google\Chrome\Extensions\fnelgfmpooffemibikhmcklfnnimgijo does not exist or is not readable.
+Mar 09, 2016 16:35:32.57 [8512:4828:0309/163532:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 09, 2016 16:35:53.96 [8512:4828:0309/163553:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 09, 2016 16:36:06.85 [8512:8232:0309/163606:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Mar 09, 2016 16:36:06.86 [8512:8232:0309/163606:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Mar 09, 2016 16:36:09.70 [8512:8232:0309/163609:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Mar 09, 2016 16:36:38.18 [8512:8232:0309/163638:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Mar 09, 2016 16:36:51.98 [8512:4828:0309/163651:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 09, 2016 16:37:33.38 [8512:8232:0309/163733:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Mar 09, 2016 16:38:42.60 [8512:4828:0309/163842:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 09, 2016 16:39:29.84 [8512:8232:0309/163929:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Mar 09, 2016 16:42:00.28 [8512:4828:0309/164200:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 09, 2016 16:42:51.02 [8512:8232:0309/164251:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Mar 09, 2016 16:48:44.71 [8512:4828:0309/164844:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 09, 2016 16:50:39.01 [8512:8232:0309/165039:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Mar 09, 2016 16:58:44.71 [8512:4828:0309/165844:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 09, 2016 17:00:39.01 [8512:8232:0309/170039:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Mar 09, 2016 17:08:44.71 [8512:4828:0309/170844:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 09, 2016 17:09:22.48 [312:10516:0309/170922:ERROR:content_settings_pref.cc(463)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 09, 2016 17:09:22.50 [312:10516:0309/170922:ERROR:content_settings_pref.cc(289)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 09, 2016 17:09:22.88 [312:10696:0309/170922:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 09, 2016 17:09:23.22 [312:8816:0309/170923:ERROR:external_registry_loader_win.cc(144)] File C:\Users\Moonis\AppData\Local\CRE\fnelgfmpooffemibikhmcklfnnimgijo.crx for key Software\Google\Chrome\Extensions\fnelgfmpooffemibikhmcklfnnimgijo does not exist or is not readable.
+Mar 09, 2016 17:09:45.57 [312:10696:0309/170945:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 09, 2016 17:09:56.32 [312:10516:0309/170956:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Mar 09, 2016 17:09:56.33 [312:10516:0309/170956:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Mar 09, 2016 17:10:32.76 [312:10696:0309/171032:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 09, 2016 17:12:10.74 [312:10696:0309/171210:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 09, 2016 17:13:19.49 [312:10516:0309/171319:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Mar 09, 2016 17:13:41.18 [312:10516:0309/171341:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Mar 09, 2016 17:14:28.16 [312:10516:0309/171428:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Mar 09, 2016 17:15:16.86 [312:10696:0309/171516:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 09, 2016 17:16:00.97 [312:10516:0309/171600:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Mar 09, 2016 17:19:20.18 [312:10516:0309/171920:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Mar 09, 2016 17:21:37.11 [2124:8200:0309/172137:ERROR:content_settings_pref.cc(463)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 09, 2016 17:21:37.13 [2124:8200:0309/172137:ERROR:content_settings_pref.cc(289)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 09, 2016 17:21:37.24 [2124:7696:0309/172137:ERROR:external_registry_loader_win.cc(144)] File C:\Users\Moonis\AppData\Local\CRE\fnelgfmpooffemibikhmcklfnnimgijo.crx for key Software\Google\Chrome\Extensions\fnelgfmpooffemibikhmcklfnnimgijo does not exist or is not readable.
+Mar 09, 2016 17:21:37.42 [2124:9824:0309/172137:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 09, 2016 17:22:00.80 [2124:9824:0309/172200:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 09, 2016 17:22:11.48 [2124:8200:0309/172211:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Mar 09, 2016 17:22:11.49 [2124:8200:0309/172211:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Mar 09, 2016 17:22:49.94 [2124:9824:0309/172249:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 09, 2016 17:24:33.47 [2124:9824:0309/172433:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 09, 2016 17:27:50.24 [2124:9824:0309/172750:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+
+Mar 14, 2016 12:49:39.41 NEW SESSION
+Mar 14, 2016 12:49:39.41 [6856:1380:0314/124939:ERROR:content_settings_pref.cc(463)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 14, 2016 12:49:39.71 [6856:1380:0314/124939:ERROR:content_settings_pref.cc(289)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 14, 2016 12:49:42.05 [6856:2632:0314/124941:ERROR:external_registry_loader_win.cc(144)] File C:\Users\Moonis\AppData\Local\CRE\fnelgfmpooffemibikhmcklfnnimgijo.crx for key Software\Google\Chrome\Extensions\fnelgfmpooffemibikhmcklfnnimgijo does not exist or is not readable.
+
+Mar 14, 2016 17:25:21.43 NEW SESSION
+Mar 14, 2016 17:25:21.43 [4540:6516:0314/172521:ERROR:content_settings_pref.cc(463)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 14, 2016 17:25:21.65 [4540:6516:0314/172521:ERROR:content_settings_pref.cc(289)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 14, 2016 17:25:23.80 [4540:2488:0314/172523:ERROR:external_registry_loader_win.cc(144)] File C:\Users\Moonis\AppData\Local\CRE\fnelgfmpooffemibikhmcklfnnimgijo.crx for key Software\Google\Chrome\Extensions\fnelgfmpooffemibikhmcklfnnimgijo does not exist or is not readable.
+Mar 14, 2016 17:25:24.86 [4540:3032:0314/172524:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 14, 2016 17:25:48.79 [4540:3032:0314/172548:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 14, 2016 17:26:00.89 [4540:6516:0314/172600:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Mar 14, 2016 17:26:00.90 [4540:6516:0314/172600:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Mar 14, 2016 17:26:35.99 [4540:3032:0314/172635:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 14, 2016 17:28:27.59 [4540:3032:0314/172827:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+Mar 14, 2016 17:31:52.31 [4540:3032:0314/173152:ERROR:connection_factory_impl.cc(368)] Failed to connect to MCS endpoint with error -105
+
+Mar 16, 2016 10:47:48.31 NEW SESSION
+Mar 16, 2016 10:47:48.31 [10744:9424:0316/104748:ERROR:content_settings_pref.cc(463)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 16, 2016 10:47:48.61 [10744:9424:0316/104748:ERROR:content_settings_pref.cc(289)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 16, 2016 10:47:49.71 [10744:10332:0316/104749:ERROR:external_registry_loader_win.cc(144)] File C:\Users\Moonis\AppData\Local\CRE\fnelgfmpooffemibikhmcklfnnimgijo.crx for key Software\Google\Chrome\Extensions\fnelgfmpooffemibikhmcklfnnimgijo does not exist or is not readable.
+
+Mar 16, 2016 21:36:46.61 NEW SESSION
+Mar 16, 2016 21:36:46.61 [3796:9392:0316/213646:ERROR:content_settings_pref.cc(463)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 16, 2016 21:36:46.81 [3796:9392:0316/213646:ERROR:content_settings_pref.cc(289)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 16, 2016 21:36:49.43 [3796:11852:0316/213649:ERROR:external_registry_loader_win.cc(144)] File C:\Users\Moonis\AppData\Local\CRE\fnelgfmpooffemibikhmcklfnnimgijo.crx for key Software\Google\Chrome\Extensions\fnelgfmpooffemibikhmcklfnnimgijo does not exist or is not readable.
+Mar 17, 2016 01:38:02.01 [4488:8100:0317/013802:ERROR:content_settings_pref.cc(463)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 17, 2016 01:38:02.12 [4488:8100:0317/013802:ERROR:content_settings_pref.cc(289)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 17, 2016 01:38:04.30 [4488:10152:0317/013804:ERROR:external_registry_loader_win.cc(144)] File C:\Users\Moonis\AppData\Local\CRE\fnelgfmpooffemibikhmcklfnnimgijo.crx for key Software\Google\Chrome\Extensions\fnelgfmpooffemibikhmcklfnnimgijo does not exist or is not readable.
+
+Mar 17, 2016 16:13:00.76 NEW SESSION
+Mar 17, 2016 16:13:00.76 [10192:1776:0317/161300:ERROR:content_settings_pref.cc(463)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 17, 2016 16:13:01.21 [10192:1776:0317/161300:ERROR:content_settings_pref.cc(289)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 17, 2016 16:13:02.44 [10192:8060:0317/161302:ERROR:external_registry_loader_win.cc(144)] File C:\Users\Moonis\AppData\Local\CRE\fnelgfmpooffemibikhmcklfnnimgijo.crx for key Software\Google\Chrome\Extensions\fnelgfmpooffemibikhmcklfnnimgijo does not exist or is not readable.
+Mar 17, 2016 16:13:03.76 [10192:7880:0317/161303:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Mar 17, 2016 16:13:29.22 [10192:7880:0317/161329:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Mar 17, 2016 16:13:39.20 [10192:1776:0317/161339:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Mar 17, 2016 16:13:39.20 [10192:1776:0317/161339:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Mar 17, 2016 16:14:20.01 [10192:7880:0317/161420:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Mar 17, 2016 16:14:58.77 [10192:1776:0317/161458:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Mar 17, 2016 16:15:22.66 [10192:1776:0317/161522:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Mar 17, 2016 16:15:42.22 [10192:7880:0317/161542:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Mar 17, 2016 16:16:17.02 [10192:1776:0317/161617:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Mar 17, 2016 16:17:39.94 [10192:1776:0317/161739:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Mar 17, 2016 16:19:05.89 [10192:7880:0317/161905:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Mar 17, 2016 16:20:59.22 [10192:1776:0317/162059:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Mar 17, 2016 16:24:28.90 [10192:7880:0317/162428:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Mar 17, 2016 16:28:17.28 [10192:1776:0317/162817:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+
+Mar 30, 2016 17:09:02.76 NEW SESSION
+Mar 30, 2016 17:09:02.76 [8080:3188:0330/170902:ERROR:content_settings_pref.cc(463)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 30, 2016 17:09:03.04 [8080:3188:0330/170902:ERROR:content_settings_pref.cc(289)] Invalid pattern strings: ,http://www.w3schools.com:80
+Mar 30, 2016 17:09:04.06 [8080:2548:0330/170904:ERROR:external_registry_loader_win.cc(144)] File C:\Users\Moonis\AppData\Local\CRE\fnelgfmpooffemibikhmcklfnnimgijo.crx for key Software\Google\Chrome\Extensions\fnelgfmpooffemibikhmcklfnnimgijo does not exist or is not readable.
+Mar 30, 2016 17:09:07.89 [8080:7184:0330/170907:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Mar 30, 2016 17:09:28.27 [8080:7184:0330/170928:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Mar 30, 2016 17:09:39.51 [8080:3188:0330/170939:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Mar 30, 2016 17:09:39.52 [8080:3188:0330/170939:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Mar 30, 2016 17:09:41.47 [8080:3188:0330/170941:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Connection failed (-105).
+Mar 30, 2016 17:10:11.20 [8080:7184:0330/171011:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Mar 30, 2016 17:11:37.41 [8080:7184:0330/171137:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+
+Apr 05, 2016 18:07:47.53 NEW SESSION
+Apr 05, 2016 18:07:47.53 [10024:10036:0405/180747:ERROR:content_settings_pref.cc(463)] Invalid pattern strings: ,http://www.w3schools.com:80
+Apr 05, 2016 18:07:47.72 [10024:10036:0405/180747:ERROR:content_settings_pref.cc(289)] Invalid pattern strings: ,http://www.w3schools.com:80
+Apr 05, 2016 18:07:51.21 [10024:4952:0405/180751:ERROR:external_registry_loader_win.cc(144)] File C:\Users\Moonis\AppData\Local\CRE\fnelgfmpooffemibikhmcklfnnimgijo.crx for key Software\Google\Chrome\Extensions\fnelgfmpooffemibikhmcklfnnimgijo does not exist or is not readable.
+Apr 05, 2016 18:07:53.35 [10024:5732:0405/180753:ERROR:backend_impl.cc(2030)] Invalid cache (current) size
+Apr 05, 2016 18:07:54.56 [10024:7752:0405/180754:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 05, 2016 18:08:22.30 [10024:7752:0405/180822:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 05, 2016 18:08:26.41 [10024:10036:0405/180826:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Apr 05, 2016 18:08:26.42 [10024:10036:0405/180826:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Apr 05, 2016 18:09:19.86 [10024:7752:0405/180919:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 05, 2016 18:11:16.04 [2912:3588:0405/181116:ERROR:content_settings_pref.cc(463)] Invalid pattern strings: ,http://www.w3schools.com:80
+Apr 05, 2016 18:11:16.23 [2912:3588:0405/181116:ERROR:content_settings_pref.cc(289)] Invalid pattern strings: ,http://www.w3schools.com:80
+Apr 05, 2016 18:11:17.73 [2912:10032:0405/181117:ERROR:external_registry_loader_win.cc(144)] File C:\Users\Moonis\AppData\Local\CRE\fnelgfmpooffemibikhmcklfnnimgijo.crx for key Software\Google\Chrome\Extensions\fnelgfmpooffemibikhmcklfnnimgijo does not exist or is not readable.
+Apr 05, 2016 18:11:17.84 [2912:312:0405/181117:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 05, 2016 18:14:58.02 [10164:8104:0405/181458:ERROR:content_settings_pref.cc(463)] Invalid pattern strings: ,http://www.w3schools.com:80
+Apr 05, 2016 18:14:58.06 [10164:8104:0405/181458:ERROR:content_settings_pref.cc(289)] Invalid pattern strings: ,http://www.w3schools.com:80
+Apr 05, 2016 18:14:58.18 [10164:8656:0405/181458:ERROR:external_registry_loader_win.cc(144)] File C:\Users\Moonis\AppData\Local\CRE\fnelgfmpooffemibikhmcklfnnimgijo.crx for key Software\Google\Chrome\Extensions\fnelgfmpooffemibikhmcklfnnimgijo does not exist or is not readable.
+Apr 05, 2016 18:14:58.58 [10164:6628:0405/181458:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 05, 2016 18:15:28.09 [10164:6628:0405/181528:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 05, 2016 18:15:31.37 [10164:8104:0405/181531:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Apr 05, 2016 18:15:31.38 [10164:8104:0405/181531:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Apr 05, 2016 18:16:20.55 [10164:6628:0405/181620:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 05, 2016 18:17:45.56 [10164:6628:0405/181745:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 05, 2016 18:18:14.46 [10164:8104:0405/181814:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 05, 2016 18:18:43.91 [10164:8104:0405/181843:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 05, 2016 18:19:24.82 [10164:8104:0405/181924:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 05, 2016 18:20:37.55 [10164:6628:0405/182037:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 05, 2016 18:21:11.57 [10164:8104:0405/182111:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 05, 2016 18:24:19.81 [10164:8104:0405/182419:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 05, 2016 18:26:10.85 [10164:6628:0405/182610:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 05, 2016 18:29:52.28 [10164:8104:0405/182952:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 05, 2016 18:36:10.85 [10164:6628:0405/183610:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+
+Apr 07, 2016 17:20:21.83 NEW SESSION
+Apr 07, 2016 17:20:21.83 [5028:4736:0407/172021:ERROR:content_settings_pref.cc(463)] Invalid pattern strings: ,http://www.w3schools.com:80
+Apr 07, 2016 17:20:21.99 [5028:4736:0407/172021:ERROR:content_settings_pref.cc(289)] Invalid pattern strings: ,http://www.w3schools.com:80
+Apr 07, 2016 17:20:28.03 [5028:12576:0407/172028:ERROR:external_registry_loader_win.cc(144)] File C:\Users\Moonis\AppData\Local\CRE\fnelgfmpooffemibikhmcklfnnimgijo.crx for key Software\Google\Chrome\Extensions\fnelgfmpooffemibikhmcklfnnimgijo does not exist or is not readable.
+Apr 07, 2016 17:20:40.52 [5028:12520:0407/172040:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 07, 2016 17:21:07.28 [5028:12520:0407/172107:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 07, 2016 17:21:22.55 [5028:4736:0407/172122:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Connection failed (-105).
+Apr 07, 2016 17:21:24.03 [5028:4736:0407/172124:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Apr 07, 2016 17:21:24.04 [5028:4736:0407/172124:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Apr 07, 2016 17:21:50.47 [5028:12520:0407/172150:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 07, 2016 17:23:50.44 [5028:12520:0407/172350:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 07, 2016 17:27:00.11 [5028:12520:0407/172700:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 07, 2016 17:29:47.64 [5028:4736:0407/172947:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 07, 2016 17:30:16.27 [5028:4736:0407/173016:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 07, 2016 17:31:05.93 [5028:4736:0407/173105:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 07, 2016 17:32:54.82 [5028:4736:0407/173254:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 07, 2016 17:34:45.03 [5028:12520:0407/173445:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 07, 2016 17:36:42.15 [5028:4736:0407/173642:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+
+Apr 11, 2016 17:07:04.53 NEW SESSION
+Apr 11, 2016 17:07:04.53 [2392:860:0411/170704:ERROR:content_settings_pref.cc(463)] Invalid pattern strings: ,http://www.w3schools.com:80
+Apr 11, 2016 17:07:05.00 [2392:860:0411/170704:ERROR:content_settings_pref.cc(289)] Invalid pattern strings: ,http://www.w3schools.com:80
+Apr 11, 2016 17:07:05.33 [2392:4904:0411/170705:ERROR:external_registry_loader_win.cc(144)] File C:\Users\Moonis\AppData\Local\CRE\fnelgfmpooffemibikhmcklfnnimgijo.crx for key Software\Google\Chrome\Extensions\fnelgfmpooffemibikhmcklfnnimgijo does not exist or is not readable.
+Apr 11, 2016 17:07:08.70 [2392:8272:0411/170708:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 11, 2016 17:07:36.06 [2392:8272:0411/170736:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 11, 2016 17:07:39.98 [2392:860:0411/170739:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Apr 11, 2016 17:07:39.99 [2392:860:0411/170739:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Apr 11, 2016 17:07:40.42 [2392:860:0411/170740:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Connection failed (-105).
+Apr 11, 2016 17:08:21.45 [2392:8272:0411/170821:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 11, 2016 17:09:46.00 [2392:8272:0411/170946:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 11, 2016 17:13:03.52 [4160:5112:0411/171303:ERROR:content_settings_pref.cc(463)] Invalid pattern strings: ,http://www.w3schools.com:80
+Apr 11, 2016 17:13:03.59 [4160:5112:0411/171303:ERROR:content_settings_pref.cc(289)] Invalid pattern strings: ,http://www.w3schools.com:80
+Apr 11, 2016 17:13:03.81 [4160:3836:0411/171303:ERROR:external_registry_loader_win.cc(144)] File C:\Users\Moonis\AppData\Local\CRE\fnelgfmpooffemibikhmcklfnnimgijo.crx for key Software\Google\Chrome\Extensions\fnelgfmpooffemibikhmcklfnnimgijo does not exist or is not readable.
+Apr 11, 2016 17:13:04.94 [4160:7928:0411/171304:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 11, 2016 17:13:28.07 [4160:7928:0411/171328:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 11, 2016 17:13:39.90 [4160:5112:0411/171339:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Apr 11, 2016 17:13:39.90 [4160:5112:0411/171339:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Apr 11, 2016 17:14:22.55 [4160:7928:0411/171422:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 11, 2016 17:16:47.79 [5052:4340:0411/171647:ERROR:content_settings_pref.cc(463)] Invalid pattern strings: ,http://www.w3schools.com:80
+Apr 11, 2016 17:16:47.83 [5052:4340:0411/171647:ERROR:content_settings_pref.cc(289)] Invalid pattern strings: ,http://www.w3schools.com:80
+Apr 11, 2016 17:16:48.03 [5052:5148:0411/171648:ERROR:external_registry_loader_win.cc(144)] File C:\Users\Moonis\AppData\Local\CRE\fnelgfmpooffemibikhmcklfnnimgijo.crx for key Software\Google\Chrome\Extensions\fnelgfmpooffemibikhmcklfnnimgijo does not exist or is not readable.
+Apr 11, 2016 17:16:48.47 [5052:4292:0411/171648:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 11, 2016 17:17:16.59 [5052:4292:0411/171716:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 11, 2016 17:17:22.95 [5052:4340:0411/171722:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Apr 11, 2016 17:17:22.96 [5052:4340:0411/171722:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Apr 11, 2016 17:17:59.29 [5052:4292:0411/171759:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 11, 2016 17:19:00.33 [5052:4340:0411/171900:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 11, 2016 17:19:28.29 [5052:4340:0411/171928:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 11, 2016 17:19:29.33 [5052:4292:0411/171929:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 11, 2016 17:20:21.86 [5052:4340:0411/172021:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 11, 2016 17:21:47.91 [5052:4340:0411/172147:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 11, 2016 17:22:41.64 [5052:4292:0411/172241:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 11, 2016 17:25:14.03 [5052:4340:0411/172514:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+
+Apr 12, 2016 15:01:50.83 NEW SESSION
+Apr 12, 2016 15:01:50.83 [4892:7732:0412/150150:ERROR:content_settings_pref.cc(463)] Invalid pattern strings: ,http://www.w3schools.com:80
+Apr 12, 2016 15:01:51.02 [4892:7732:0412/150150:ERROR:content_settings_pref.cc(289)] Invalid pattern strings: ,http://www.w3schools.com:80
+Apr 12, 2016 15:01:51.42 [4892:4220:0412/150151:ERROR:external_registry_loader_win.cc(144)] File C:\Users\Moonis\AppData\Local\CRE\fnelgfmpooffemibikhmcklfnnimgijo.crx for key Software\Google\Chrome\Extensions\fnelgfmpooffemibikhmcklfnnimgijo does not exist or is not readable.
+Apr 12, 2016 15:01:51.77 [4892:5188:0412/150151:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 12, 2016 15:02:16.02 [4892:5188:0412/150216:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 12, 2016 15:02:25.05 [4892:7732:0412/150225:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Apr 12, 2016 15:02:25.06 [4892:7732:0412/150225:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Apr 12, 2016 15:03:00.69 [4892:5188:0412/150300:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 12, 2016 15:06:33.34 [3968:3648:0412/150633:ERROR:content_settings_pref.cc(463)] Invalid pattern strings: ,http://www.w3schools.com:80
+Apr 12, 2016 15:06:33.37 [3968:3648:0412/150633:ERROR:content_settings_pref.cc(289)] Invalid pattern strings: ,http://www.w3schools.com:80
+Apr 12, 2016 15:06:33.48 [3968:7624:0412/150633:ERROR:external_registry_loader_win.cc(144)] File C:\Users\Moonis\AppData\Local\CRE\fnelgfmpooffemibikhmcklfnnimgijo.crx for key Software\Google\Chrome\Extensions\fnelgfmpooffemibikhmcklfnnimgijo does not exist or is not readable.
+Apr 12, 2016 15:06:33.82 [3968:2096:0412/150633:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 12, 2016 15:06:57.48 [3968:2096:0412/150657:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 12, 2016 15:07:07.31 [3968:3648:0412/150707:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Apr 12, 2016 15:07:07.32 [3968:3648:0412/150707:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Apr 12, 2016 15:07:56.38 [3968:2096:0412/150756:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 12, 2016 15:09:22.02 [3968:2096:0412/150922:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 12, 2016 15:12:49.73 [3968:2096:0412/151249:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 12, 2016 15:19:44.79 [3968:2096:0412/151944:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 12, 2016 15:20:26.73 [3968:3648:0412/152026:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 12, 2016 15:20:47.15 [3968:3648:0412/152047:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 12, 2016 15:21:30.67 [3968:3648:0412/152130:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 12, 2016 15:23:03.66 [3968:3648:0412/152303:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 12, 2016 15:26:49.40 [3968:3648:0412/152649:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 12, 2016 15:29:44.79 [3968:2096:0412/152944:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 12, 2016 15:32:15.93 [3968:3648:0412/153215:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 12, 2016 15:39:44.79 [3968:2096:0412/153944:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 12, 2016 15:42:15.94 [3968:3648:0412/154215:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 12, 2016 15:49:44.79 [3968:2096:0412/154944:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 12, 2016 15:52:15.94 [3968:3648:0412/155215:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 12, 2016 15:59:44.79 [3968:2096:0412/155944:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 12, 2016 16:02:15.94 [3968:3648:0412/160215:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 12, 2016 16:09:44.79 [3968:2096:0412/160944:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 12, 2016 16:12:15.94 [3968:3648:0412/161215:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 12, 2016 16:19:44.79 [3968:2096:0412/161944:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 12, 2016 16:22:15.94 [3968:3648:0412/162215:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 12, 2016 16:29:44.80 [3968:2096:0412/162944:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 12, 2016 16:32:15.94 [3968:3648:0412/163215:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 12, 2016 16:39:44.80 [3968:2096:0412/163944:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 12, 2016 16:42:15.94 [3968:3648:0412/164215:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 12, 2016 16:57:21.49 [1416:9008:0412/165721:ERROR:content_settings_pref.cc(463)] Invalid pattern strings: ,http://www.w3schools.com:80
+Apr 12, 2016 16:57:21.51 [1416:9008:0412/165721:ERROR:content_settings_pref.cc(289)] Invalid pattern strings: ,http://www.w3schools.com:80
+Apr 12, 2016 16:57:22.26 [1416:5304:0412/165722:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 12, 2016 16:57:22.33 [1416:7496:0412/165722:ERROR:external_registry_loader_win.cc(144)] File C:\Users\Moonis\AppData\Local\CRE\fnelgfmpooffemibikhmcklfnnimgijo.crx for key Software\Google\Chrome\Extensions\fnelgfmpooffemibikhmcklfnnimgijo does not exist or is not readable.
+Apr 12, 2016 16:57:44.29 [1416:5304:0412/165744:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 12, 2016 16:57:54.27 [1416:9008:0412/165754:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Apr 12, 2016 16:57:54.28 [1416:9008:0412/165754:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Apr 12, 2016 16:58:26.14 [1416:5304:0412/165826:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 12, 2016 17:00:05.15 [1416:5304:0412/170005:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 12, 2016 17:00:16.04 [1416:9008:0412/170016:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 12, 2016 17:00:44.02 [1416:9008:0412/170044:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 12, 2016 17:01:42.58 [1416:9008:0412/170142:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 12, 2016 17:02:59.50 [1416:5304:0412/170259:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 12, 2016 17:03:33.08 [1416:9008:0412/170333:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 12, 2016 17:06:48.20 [1416:9008:0412/170648:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 12, 2016 17:07:41.56 [1416:9008:0412/170741:ERROR:account_info_fetcher.cc(58)] OnGetTokenFailure: Connection failed (-105).
+Apr 12, 2016 17:09:19.93 [1416:5304:0412/170919:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 12, 2016 17:12:37.54 [1416:9008:0412/171237:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+
+Apr 14, 2016 16:48:39.15 NEW SESSION
+Apr 14, 2016 16:48:39.16 [6736:4500:0414/164839:ERROR:content_settings_pref.cc(468)] Invalid pattern strings: ,http://www.w3schools.com:80
+Apr 14, 2016 16:48:39.51 [6736:4500:0414/164839:ERROR:content_settings_pref.cc(294)] Invalid pattern strings: ,http://www.w3schools.com:80
+Apr 14, 2016 16:48:42.04 [6736:5784:0414/164842:ERROR:external_registry_loader_win.cc(144)] File C:\Users\Moonis\AppData\Local\CRE\fnelgfmpooffemibikhmcklfnnimgijo.crx for key Software\Google\Chrome\Extensions\fnelgfmpooffemibikhmcklfnnimgijo does not exist or is not readable.
+Apr 14, 2016 16:48:43.25 [6736:5712:0414/164843:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 14, 2016 16:49:10.60 [6736:5712:0414/164910:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 14, 2016 16:49:15.94 [6736:4500:0414/164915:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Apr 14, 2016 16:49:15.95 [6736:4500:0414/164915:ERROR:account_tracker.cc(357)] OnGetTokenFailure: Connection failed (-105).
+Apr 14, 2016 16:49:51.34 [6736:5712:0414/164951:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 14, 2016 16:51:13.41 [6736:5712:0414/165113:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 14, 2016 16:51:51.18 [6736:4500:0414/165151:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 14, 2016 16:52:15.93 [6736:4500:0414/165215:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 14, 2016 16:53:04.70 [6736:4500:0414/165304:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 14, 2016 16:54:35.91 [6736:5712:0414/165435:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 14, 2016 16:54:55.15 [6736:4500:0414/165455:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 14, 2016 16:58:35.36 [6736:4500:0414/165835:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 14, 2016 17:01:00.96 [6736:5712:0414/170100:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 14, 2016 17:05:47.93 [6736:4500:0414/170547:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 14, 2016 17:11:00.97 [6736:5712:0414/171100:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 14, 2016 17:15:47.94 [6736:4500:0414/171547:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 14, 2016 17:21:00.97 [6736:5712:0414/172100:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
+Apr 14, 2016 17:25:47.94 [6736:4500:0414/172547:ERROR:gcm_channel_status_request.cc(89)] GCM channel request failed.
+Apr 14, 2016 17:31:00.97 [6736:5712:0414/173100:ERROR:connection_factory_impl.cc(367)] Failed to connect to MCS endpoint with error -105
